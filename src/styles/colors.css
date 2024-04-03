@@ -1,0 +1,13 @@
+:root {
+  --dracula-darker: hsl(231 15% 18%);
+  --dracula-dark: hsl(232 14% 31%);
+  --dracula-light: hsl(60 30% 96%);
+  --dracula-blue: hsl(225 27% 51%);
+  --dracula-cyan: hsl(191 97% 77%);
+  --dracula-green: hsl(135 94% 65%);
+  --dracula-orange: hsl(31 100% 71%);
+  --dracula-pink: hsl(326 100% 74%);
+  --dracula-purple: hsl(265 89% 78%);
+  --dracula-red: hsl(0 100% 67%);
+  --dracula-yellow: hsl(65 92% 76%);
+}
